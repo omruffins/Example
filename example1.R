@@ -19,8 +19,14 @@ print ('hello world')
  #' 8. in Terminal:
  #' git commit -m <code from R script>, press enter
  #' then
- #' git push origin (master OR main), press enter
+ #' git push origin (master OR main (branch), press enter
  #' 
  #' 9. confirm that you see change in github.com/<username>/<repository name>
+ #' 10. if git not tracking changes on R script, in terminal:
+ #' git add <R script name>.R, press enter
+ #' then: git commit -m "<message>", press enter
+ #' see which branch it is on: git status, press enter
+ #' then: git push origin master <branch>, press enter
+ #' 
  #' 
  #' 
