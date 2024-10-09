@@ -21,7 +21,8 @@ print ('hello world')
  #' make changes on R script + save by pressing ctrl+s
  #' In terminal:
  #' git add <R script name>.R, press enter
- #' git commit -m "<message>", press enter
+ #' git commit -m "<message>", press enter, you will see 
+ #' number of files change, number of insertions (lines) + number of deletions (lines)
  #' then
  #' git push origin (master OR main (branch), press enter
  #' 
